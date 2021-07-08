@@ -1,7 +1,7 @@
 # **Lizaveta Agey JavaScript Developer CV**
 
-1. *Lizaveta Agey*
-1. Contacts:
+1. Lizaveta Agey
+1. *Contacts:*
    1. Phone: +375-33-614-09-45
    1. Email: agey.eliz@gmail.com
 1. My aim is to stay happy. My happiness is in my permanent self-development. My main strength is endless positive thinking, it always helps me to overcome an obstacle.
