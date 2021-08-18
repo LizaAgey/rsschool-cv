@@ -1,1 +1,0 @@
-https://LizaAgey.github.io/rsschool-cv/cv
