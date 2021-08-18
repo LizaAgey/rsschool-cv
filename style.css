@@ -1,0 +1,164 @@
+.main-container {
+  font-family: Roboto Slab;
+  letter-spacing: 0.03em;
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.photozone {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 50%;
+  height: 300px;
+}
+
+.textflex {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.textflex img {
+  width: 23px;
+  height: 23px;
+}
+
+.avaborder {
+  width: 30px;
+  height: 300px;
+  background: #bb7a3b;
+}
+.avatar img {
+  margin-left: 15px;
+  height: 300px;
+}
+.contact {
+  flex-basis: 35%;
+}
+.contacting {
+  height: 20px;
+  padding: 5px;
+  color: #bb7a3b;
+  border: 2px solid #bdbdbd;
+  border-radius: 10px;
+}
+
+.name {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  font-size: 60px;
+  color: #bb7a3b;
+  font-family: "Otomanopee One", sans-serif;
+}
+.name-container {
+  display: flex;
+  justify-content: center;
+}
+.nameinfo-container {
+  flex-direction: column;
+}
+.rank {
+  font-size: 30px;
+  color: #4f4f4f;
+}
+.fewwords {
+  font-size: 20px;
+  color: #4f4f4f;
+}
+main {
+  display: flex;
+  justify-content: space-between;
+}
+.left-container {
+  flex-basis: 50%;
+  flex-grow: 0;
+}
+.right-container {
+  flex-basis: 35%;
+  flex-grow: 0;
+}
+.work-exp {
+  flex-direction: column;
+}
+.mainlineleft {
+  display: flex;
+  justify-content: space-between;
+}
+.shortlineleft {
+  flex-basis: 35%;
+  flex-grow: 0;
+  height: 5px;
+  background: #bb7a3b;
+}
+.longlineleft {
+  flex-basis: 65%;
+  flex-grow: 0;
+  height: 5px;
+  background: #bb7b3b63;
+}
+.mainlineright {
+  display: flex;
+  justify-content: space-between;
+}
+.shortlineright {
+  flex-basis: 15%;
+  flex-grow: 0;
+  height: 5px;
+  background: #bb7a3b;
+}
+.longlineright {
+  flex-basis: 85%;
+  flex-grow: 0;
+  height: 5px;
+  background: #bb7b3b63;
+}
+.general {
+  font-size: 20px;
+  color: #bdbdbd;
+}
+.general-title {
+  font-size: 25px;
+  color: #4f4f4f;
+}
+.general-text {
+  font-size: 20px;
+  color: #666666;
+}
+.general-text-contact {
+  margin-left: 15px;
+  font-size: 20px;
+  color: #666666;
+}
+li {
+  word-wrap: normal;
+}
+pre code {
+  background-color: rgb(145, 214, 188);
+  display: block;
+  font-family: Roboto Slab;
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 79px;
+  letter-spacing: 0.105em;
+  color: #242732;
+  margin: 0;
+}
+.logo {
+  height: 50px;
+  padding: 10px;
+}
+.footer-line {
+  height: 5px;
+  background: #bb7b3b63;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-line img {
+  height: 100px;
+}
